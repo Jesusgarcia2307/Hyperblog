@@ -6,4 +6,10 @@ curso platzi git y github
 
 3er cambio y 4to cambio del archivo
 
+<<<<<<< HEAD
 cambio de maestra
+=======
+cambio de maestra
+
+enfocado
+>>>>>>> cabecera
